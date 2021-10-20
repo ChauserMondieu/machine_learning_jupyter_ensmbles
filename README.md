@@ -14,5 +14,8 @@ machine learning concepts derivations and python coding
 1. navigate to Settings -> Developer Settings ->Personal Access Tokens
 2. generate new PATs with expiry date
 3. save this token
+<hr>
+5. more help forom official webpages<br> https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+6. instructions on how to change previous remote url up-to-date<br>https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-ssh-to-https
 
 ## Other knowledge about gitbash 
